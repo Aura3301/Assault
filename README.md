@@ -2,4 +2,6 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Flare" src="https://media.discordapp.net/attachments/1111665437084758088/1111665549143978055/sVFxueAH.jpg"> 
 
-🚀 Want to maximize your server experience? Get Assault, the perfect server companion!
+🚀 The best multi-functional bot for discord.
+
+
