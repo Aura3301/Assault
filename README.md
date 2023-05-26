@@ -4,7 +4,7 @@
 
 🚀 The best multi-functional bot for discord.
 
-Credits
+🚀 Credits
 ```js
 Readme Credits: Snipedprox
 ```
