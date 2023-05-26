@@ -20,8 +20,6 @@ Added more moderation: addbw,removebw,bwl,modlog
 
 Changed the prefix to %
 
-Added more developer commands: exec,gprefix
-
 Removed some levelling commands: rewards,set-reward
 
 Added more economy commands: ecoblacklist,ecounblacklist,economy
