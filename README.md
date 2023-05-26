@@ -2,7 +2,7 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Flare" src="https://media.discordapp.net/attachments/1111665437084758088/1111665549143978055/sVFxueAH.jpg"> 
 
-🚀 The best multi-functional bot for discord.
+🚀 The sky limit is the limit, so let Assault take your server high in air.
 
 🚀 Credits
 ```js
