@@ -8,4 +8,5 @@
 ```js
 Prefix: ,
 Developer: Aurα.#0001
+Readme From: Snipedprox
 ```
