@@ -4,7 +4,8 @@
 
 🚀 The sky limit is the limit, so let Assault take your server high in air.
 
-🚀 Credits
+🚀 About
 ```js
-Readme Credits: Snipedprox
+Prefix: ,
+Developer: Aurα.#0001
 ```
