@@ -2,4 +2,4 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Flare" src="https://media.discordapp.net/attachments/1111665437084758088/1111665549143978055/sVFxueAH.jpg"> 
 
-🚀 The sky is the limit, so let Flare take your server to the air!
+🚀 Want to maximize your server experience? Get Assault, the perfect server companion!
